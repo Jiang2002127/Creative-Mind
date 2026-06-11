@@ -1,0 +1,10 @@
+# 核心秘钥文件（绝对不能上传！）
+.env
+
+# Python 缓存和虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
